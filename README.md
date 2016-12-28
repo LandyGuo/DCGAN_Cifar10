@@ -1,9 +1,9 @@
 # DCGAN-Cifar10
 
 This is a example realization of DCGAN, and train the model on [cifar10](http://www.cs.toronto.edu/~kriz/cifar.html), results are shown in the following:
-[<img src="https://github.com/LandyGuo/DCGAN_Cifar10/blob/master/res/example_1.png">]
-[<img src="https://github.com/LandyGuo/DCGAN_Cifar10/blob/master/res/example_2.png">]
-[<img src="https://github.com/LandyGuo/DCGAN_Cifar10/blob/master/res/example_3.png">]
+<img src="https://github.com/LandyGuo/DCGAN_Cifar10/blob/master/res/example_1.png">
+<img src="https://github.com/LandyGuo/DCGAN_Cifar10/blob/master/res/example_2.png">
+<img src="https://github.com/LandyGuo/DCGAN_Cifar10/blob/master/res/example_3.png">
 
 
 ### Run
