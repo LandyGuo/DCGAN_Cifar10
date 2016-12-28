@@ -7,4 +7,4 @@ This is a example realization of DCGAN, and train the model on [cifar10](http://
 
 
 ### Run
-Modify the DCGAN.py file , enable train() function to train DCGAN model, enable gen_samples() function to generate learned samples. The gen_samples function needs to load the trained model, which was so big that I can not upload it! So you need to train it first! Sorry for that--
+Modify the `DCGAN.py` file , enable `train()` function to train DCGAN model, enable `gen_samples()` function to generate learned samples. The `gen_samples` function needs to load the trained model, which was so big that I can not upload it! So you need to train it first! Sorry for that--
